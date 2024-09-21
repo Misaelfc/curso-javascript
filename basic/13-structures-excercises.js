@@ -62,4 +62,5 @@ mySet = new Set(myArray);
 myMap = new Map();
 myMap.set("frutas", mySet);
 
-console.log(myMap);
+console.log(myMap)
+
